@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Ikea Communications:wrench:
 - 💬 Ask me about Networking! languages, software patterns, design, trivial pursuit
