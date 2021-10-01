@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Ikea Communications:wrench:
-- 💬 Ask me about Networking! languages, software patterns, design, trivial pursuit
+- 💬 Ask me about Automation, Azure and Workflow engines!
 - Working on Azure DevOps, so you won't find my best code in here!
 - 📫 How to reach me: https://www.linkedin.com/in/htevar/
 - 😄 Pronouns: she/her
