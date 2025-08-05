@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Ikea Communications:wrench:
+- 🔭 I’m currently working on Ikea Communications :wrench:
 - 💬 Ask me about Automation, Azure and Workflow engines!
-- Working on Azure DevOps, so you won't find my best code in here!
-- 📫 How to reach me: linkedin - htevar
+- Worked on Azure DevOps, so you won't find my best code in here!
+- 📫 How to reach me: [https://calendly.com/event_types](https://calendly.com/helena-tevar)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: We say "Look into my eyes" but we can only look to **one** eye at a time. 
 
