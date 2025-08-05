@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Ikea Communications :wrench:
 - 💬 Ask me about Automation, Azure and Workflow engines!
 - Worked on Azure DevOps, so you won't find my best code in here!
-- 📫 How to reach me: [https://calendly.com/event_types](https://calendly.com/helena-tevar)
+- 📫 How to reach me: [Calendly](https://calendly.com/helena-tevar)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: We say "Look into my eyes" but we can only look to **one** eye at a time. 
 
